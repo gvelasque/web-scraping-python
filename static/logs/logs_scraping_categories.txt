@@ -1,0 +1,286 @@
+Item position: 002, Exception: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=107.0.5304.107)
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x0086ACD3+2075859]
+	Ordinal0 [0x007FEE61+1633889]
+	Ordinal0 [0x006FB7BD+571325]
+	Ordinal0 [0x006E2E1A+470554]
+	Ordinal0 [0x0074AA0B+895499]
+	Ordinal0 [0x0075AC96+961686]
+	Ordinal0 [0x00747136+880950]
+	Ordinal0 [0x0071FEFD+720637]
+	Ordinal0 [0x00720F3F+724799]
+	GetHandleVerifier [0x00B1EED2+2769538]
+	GetHandleVerifier [0x00B10D95+2711877]
+	GetHandleVerifier [0x008FA03A+521194]
+	GetHandleVerifier [0x008F8DA0+516432]
+	Ordinal0 [0x0080682C+1665068]
+	Ordinal0 [0x0080B128+1683752]
+	Ordinal0 [0x0080B215+1683989]
+	Ordinal0 [0x00816484+1729668]
+	BaseThreadInitThunk [0x7601FEF9+25]
+	RtlGetAppContainerNamedObjectPath [0x76F27BBE+286]
+	RtlGetAppContainerNamedObjectPath [0x76F27B8E+238]
+, Function: extract_recursive 
+Item position: 000, Exception: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=107.0.5304.107)
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x0086ACD3+2075859]
+	Ordinal0 [0x007FEE61+1633889]
+	Ordinal0 [0x006FB7BD+571325]
+	Ordinal0 [0x006E2E1A+470554]
+	Ordinal0 [0x0074AA0B+895499]
+	Ordinal0 [0x0075AC96+961686]
+	Ordinal0 [0x00747136+880950]
+	Ordinal0 [0x0071FEFD+720637]
+	Ordinal0 [0x00720F3F+724799]
+	GetHandleVerifier [0x00B1EED2+2769538]
+	GetHandleVerifier [0x00B10D95+2711877]
+	GetHandleVerifier [0x008FA03A+521194]
+	GetHandleVerifier [0x008F8DA0+516432]
+	Ordinal0 [0x0080682C+1665068]
+	Ordinal0 [0x0080B128+1683752]
+	Ordinal0 [0x0080B215+1683989]
+	Ordinal0 [0x00816484+1729668]
+	BaseThreadInitThunk [0x7601FEF9+25]
+	RtlGetAppContainerNamedObjectPath [0x76F27BBE+286]
+	RtlGetAppContainerNamedObjectPath [0x76F27B8E+238]
+, Function: load_url 
+Item position: 002, Exception: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=107.0.5304.107)
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x0086ACD3+2075859]
+	Ordinal0 [0x007FEE61+1633889]
+	Ordinal0 [0x006FB7BD+571325]
+	Ordinal0 [0x006E2E1A+470554]
+	Ordinal0 [0x0074AA0B+895499]
+	Ordinal0 [0x0075AC96+961686]
+	Ordinal0 [0x00747136+880950]
+	Ordinal0 [0x0071FEFD+720637]
+	Ordinal0 [0x00720F3F+724799]
+	GetHandleVerifier [0x00B1EED2+2769538]
+	GetHandleVerifier [0x00B10D95+2711877]
+	GetHandleVerifier [0x008FA03A+521194]
+	GetHandleVerifier [0x008F8DA0+516432]
+	Ordinal0 [0x0080682C+1665068]
+	Ordinal0 [0x0080B128+1683752]
+	Ordinal0 [0x0080B215+1683989]
+	Ordinal0 [0x00816484+1729668]
+	BaseThreadInitThunk [0x7601FEF9+25]
+	RtlGetAppContainerNamedObjectPath [0x76F27BBE+286]
+	RtlGetAppContainerNamedObjectPath [0x76F27B8E+238]
+, Function: extract_recursive 
+Item position: 000, Exception: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=107.0.5304.107)
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x0086ACD3+2075859]
+	Ordinal0 [0x007FEE61+1633889]
+	Ordinal0 [0x006FB7BD+571325]
+	Ordinal0 [0x006E2E1A+470554]
+	Ordinal0 [0x0074AA0B+895499]
+	Ordinal0 [0x0075AC96+961686]
+	Ordinal0 [0x00747136+880950]
+	Ordinal0 [0x0071FEFD+720637]
+	Ordinal0 [0x00720F3F+724799]
+	GetHandleVerifier [0x00B1EED2+2769538]
+	GetHandleVerifier [0x00B10D95+2711877]
+	GetHandleVerifier [0x008FA03A+521194]
+	GetHandleVerifier [0x008F8DA0+516432]
+	Ordinal0 [0x0080682C+1665068]
+	Ordinal0 [0x0080B128+1683752]
+	Ordinal0 [0x0080B215+1683989]
+	Ordinal0 [0x00816484+1729668]
+	BaseThreadInitThunk [0x7601FEF9+25]
+	RtlGetAppContainerNamedObjectPath [0x76F27BBE+286]
+	RtlGetAppContainerNamedObjectPath [0x76F27B8E+238]
+, Function: load_url 
+Item position: 002, Exception: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=107.0.5304.107)
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x0086ACD3+2075859]
+	Ordinal0 [0x007FEE61+1633889]
+	Ordinal0 [0x006FB7BD+571325]
+	Ordinal0 [0x006E2E1A+470554]
+	Ordinal0 [0x0074AA0B+895499]
+	Ordinal0 [0x0075AC96+961686]
+	Ordinal0 [0x00747136+880950]
+	Ordinal0 [0x0071FEFD+720637]
+	Ordinal0 [0x00720F3F+724799]
+	GetHandleVerifier [0x00B1EED2+2769538]
+	GetHandleVerifier [0x00B10D95+2711877]
+	GetHandleVerifier [0x008FA03A+521194]
+	GetHandleVerifier [0x008F8DA0+516432]
+	Ordinal0 [0x0080682C+1665068]
+	Ordinal0 [0x0080B128+1683752]
+	Ordinal0 [0x0080B215+1683989]
+	Ordinal0 [0x00816484+1729668]
+	BaseThreadInitThunk [0x7601FEF9+25]
+	RtlGetAppContainerNamedObjectPath [0x76F27BBE+286]
+	RtlGetAppContainerNamedObjectPath [0x76F27B8E+238]
+, Function: extract_recursive 
+Item position: 000, Exception: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=107.0.5304.107)
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x0086ACD3+2075859]
+	Ordinal0 [0x007FEE61+1633889]
+	Ordinal0 [0x006FB7BD+571325]
+	Ordinal0 [0x006E2E1A+470554]
+	Ordinal0 [0x0074AA0B+895499]
+	Ordinal0 [0x0075AC96+961686]
+	Ordinal0 [0x00747136+880950]
+	Ordinal0 [0x0071FEFD+720637]
+	Ordinal0 [0x00720F3F+724799]
+	GetHandleVerifier [0x00B1EED2+2769538]
+	GetHandleVerifier [0x00B10D95+2711877]
+	GetHandleVerifier [0x008FA03A+521194]
+	GetHandleVerifier [0x008F8DA0+516432]
+	Ordinal0 [0x0080682C+1665068]
+	Ordinal0 [0x0080B128+1683752]
+	Ordinal0 [0x0080B215+1683989]
+	Ordinal0 [0x00816484+1729668]
+	BaseThreadInitThunk [0x7601FEF9+25]
+	RtlGetAppContainerNamedObjectPath [0x76F27BBE+286]
+	RtlGetAppContainerNamedObjectPath [0x76F27B8E+238]
+, Function: load_url 
+Item position: 001, Exception: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=107.0.5304.107)
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x0086ACD3+2075859]
+	Ordinal0 [0x007FEE61+1633889]
+	Ordinal0 [0x006FB7BD+571325]
+	Ordinal0 [0x006E2E1A+470554]
+	Ordinal0 [0x0074AA0B+895499]
+	Ordinal0 [0x0075AC96+961686]
+	Ordinal0 [0x00747136+880950]
+	Ordinal0 [0x0071FEFD+720637]
+	Ordinal0 [0x00720F3F+724799]
+	GetHandleVerifier [0x00B1EED2+2769538]
+	GetHandleVerifier [0x00B10D95+2711877]
+	GetHandleVerifier [0x008FA03A+521194]
+	GetHandleVerifier [0x008F8DA0+516432]
+	Ordinal0 [0x0080682C+1665068]
+	Ordinal0 [0x0080B128+1683752]
+	Ordinal0 [0x0080B215+1683989]
+	Ordinal0 [0x00816484+1729668]
+	BaseThreadInitThunk [0x7601FEF9+25]
+	RtlGetAppContainerNamedObjectPath [0x76F27BBE+286]
+	RtlGetAppContainerNamedObjectPath [0x76F27B8E+238]
+, Function: extract_recursive 
+Item position: 000, Exception: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=107.0.5304.107)
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x0086ACD3+2075859]
+	Ordinal0 [0x007FEE61+1633889]
+	Ordinal0 [0x006FB7BD+571325]
+	Ordinal0 [0x006E2E1A+470554]
+	Ordinal0 [0x0074AA0B+895499]
+	Ordinal0 [0x0075AC96+961686]
+	Ordinal0 [0x00747136+880950]
+	Ordinal0 [0x0071FEFD+720637]
+	Ordinal0 [0x00720F3F+724799]
+	GetHandleVerifier [0x00B1EED2+2769538]
+	GetHandleVerifier [0x00B10D95+2711877]
+	GetHandleVerifier [0x008FA03A+521194]
+	GetHandleVerifier [0x008F8DA0+516432]
+	Ordinal0 [0x0080682C+1665068]
+	Ordinal0 [0x0080B128+1683752]
+	Ordinal0 [0x0080B215+1683989]
+	Ordinal0 [0x00816484+1729668]
+	BaseThreadInitThunk [0x7601FEF9+25]
+	RtlGetAppContainerNamedObjectPath [0x76F27BBE+286]
+	RtlGetAppContainerNamedObjectPath [0x76F27B8E+238]
+, Function: load_url 
+Item position: 001, Exception: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=107.0.5304.107)
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x0086ACD3+2075859]
+	Ordinal0 [0x007FEE61+1633889]
+	Ordinal0 [0x006FB7BD+571325]
+	Ordinal0 [0x006E2E1A+470554]
+	Ordinal0 [0x0074AA0B+895499]
+	Ordinal0 [0x0075AC96+961686]
+	Ordinal0 [0x00747136+880950]
+	Ordinal0 [0x0071FEFD+720637]
+	Ordinal0 [0x00720F3F+724799]
+	GetHandleVerifier [0x00B1EED2+2769538]
+	GetHandleVerifier [0x00B10D95+2711877]
+	GetHandleVerifier [0x008FA03A+521194]
+	GetHandleVerifier [0x008F8DA0+516432]
+	Ordinal0 [0x0080682C+1665068]
+	Ordinal0 [0x0080B128+1683752]
+	Ordinal0 [0x0080B215+1683989]
+	Ordinal0 [0x00816484+1729668]
+	BaseThreadInitThunk [0x7601FEF9+25]
+	RtlGetAppContainerNamedObjectPath [0x76F27BBE+286]
+	RtlGetAppContainerNamedObjectPath [0x76F27B8E+238]
+, Function: extract_recursive 
+Item position: 000, Exception: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=107.0.5304.107)
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x0086ACD3+2075859]
+	Ordinal0 [0x007FEE61+1633889]
+	Ordinal0 [0x006FB7BD+571325]
+	Ordinal0 [0x006E2E1A+470554]
+	Ordinal0 [0x0074AA0B+895499]
+	Ordinal0 [0x0075AC96+961686]
+	Ordinal0 [0x00747136+880950]
+	Ordinal0 [0x0071FEFD+720637]
+	Ordinal0 [0x00720F3F+724799]
+	GetHandleVerifier [0x00B1EED2+2769538]
+	GetHandleVerifier [0x00B10D95+2711877]
+	GetHandleVerifier [0x008FA03A+521194]
+	GetHandleVerifier [0x008F8DA0+516432]
+	Ordinal0 [0x0080682C+1665068]
+	Ordinal0 [0x0080B128+1683752]
+	Ordinal0 [0x0080B215+1683989]
+	Ordinal0 [0x00816484+1729668]
+	BaseThreadInitThunk [0x7601FEF9+25]
+	RtlGetAppContainerNamedObjectPath [0x76F27BBE+286]
+	RtlGetAppContainerNamedObjectPath [0x76F27B8E+238]
+, Function: load_url 
+Item position: 001, Exception: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=107.0.5304.107)
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x0086ACD3+2075859]
+	Ordinal0 [0x007FEE61+1633889]
+	Ordinal0 [0x006FB7BD+571325]
+	Ordinal0 [0x006E2E1A+470554]
+	Ordinal0 [0x0074AA0B+895499]
+	Ordinal0 [0x0075AC96+961686]
+	Ordinal0 [0x00747136+880950]
+	Ordinal0 [0x0071FEFD+720637]
+	Ordinal0 [0x00720F3F+724799]
+	GetHandleVerifier [0x00B1EED2+2769538]
+	GetHandleVerifier [0x00B10D95+2711877]
+	GetHandleVerifier [0x008FA03A+521194]
+	GetHandleVerifier [0x008F8DA0+516432]
+	Ordinal0 [0x0080682C+1665068]
+	Ordinal0 [0x0080B128+1683752]
+	Ordinal0 [0x0080B215+1683989]
+	Ordinal0 [0x00816484+1729668]
+	BaseThreadInitThunk [0x7601FEF9+25]
+	RtlGetAppContainerNamedObjectPath [0x76F27BBE+286]
+	RtlGetAppContainerNamedObjectPath [0x76F27B8E+238]
+, Function: extract_recursive 

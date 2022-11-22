@@ -1,0 +1,4 @@
+Item position: 000, Exception: 'NoneType' object has no attribute 'get', Function: extract_collection_category 
+Item position: 000, Exception: 'NoneType' object has no attribute 'find', Function: get_rrp_product 
+Item position: 001, Exception: 'NoneType' object has no attribute 'find_all', Function: get_price 
+Item position: 001, Exception: 'NoneType' object has no attribute 'find', Function: get_rrp_product 
