@@ -1,3 +1,3 @@
-# WebScrapingPython
+# WebScrappingPython
 
-Web Scraping of Amazon
+Web Scrapping of Amazon
